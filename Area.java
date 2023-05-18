@@ -1,4 +1,4 @@
-//Write a java program to calculate the area of a rectangle, a triangle or a circle based on user choice
+clear//Write a java program to calculate the area of a rectangle, a triangle or a circle based on user choice
 import java.util.Scanner;
 class area
 {
