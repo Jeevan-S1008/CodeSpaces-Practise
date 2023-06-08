@@ -13,4 +13,4 @@ elif (m1 > m2 and m3 > m2):
 else:
     print("greatest marks are ",m3,m2)
     total = m2 + m3
-print ("The average of the best two test marks is: ",total/2)
+print("The average of the best two test marks is: ",total/2)
