@@ -1,3 +1,4 @@
+//Fitting curve for Straight Line
 import java.util.Scanner;   
 class main
 {
