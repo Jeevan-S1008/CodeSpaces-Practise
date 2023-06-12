@@ -1,6 +1,6 @@
 //Fitting curve for Straight Line
 import java.util.Scanner;   
-class main
+class StraightLine
 {
     public static void main(String[] args)
     {
