@@ -7,7 +7,7 @@ class StraightLine
         double sumy=0,sumxy=0,sumx2=0,sumx=0;
         Scanner sc = new Scanner(System.in); 
         System.out.println("Enter the number of points");
-        int n = sc.nextInt();
+        int n = sc.nextInt();s
         double x[] = new double[n];
         double y[] = new double[n];
         for(int i=0;i<n;i++)
