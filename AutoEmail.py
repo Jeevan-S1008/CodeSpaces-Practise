@@ -1,0 +1,10 @@
+import smtplib
+senderEmail =input("Enter your email: ")
+reciverEmail = input("Enter reciver email: ")   
+message = input("Enter your message: ")
+password = input("Enter your password: ")
+server = smtplib.SMTP("smpt.office365.com",587)
+server.starttls()
+server.login(senderEmail,password)
+server.sendmail(senderEmail,reciverEmail,message)
+print("Email send successfully")
